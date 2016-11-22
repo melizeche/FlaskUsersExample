@@ -4,7 +4,7 @@
 * Python 3.3+
 * Virtualenv(Optional)
 
-## To run
+## Set environment
 ```
 virtualenv -p python3 env
 source env/bin/activate
