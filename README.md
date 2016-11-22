@@ -2,7 +2,7 @@
 
 Just an Register/Login example in Flask with bcrypt for password hashing
 
-## Sysrem requirements
+## System requirements
 * Python 3.3+
 * Virtualenv(Optional)
 
