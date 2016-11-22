@@ -6,7 +6,7 @@ Just an Register/Login example in Flask with bcrypt for password hashing
 * Python 3.3+
 * Virtualenv(Optional)
 
-# Environment requirements
+## Environment requirements
 * Flask 0.10+
 * bcrypt 3.1+
 
