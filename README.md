@@ -1,4 +1,6 @@
-# Simple register/login Flask example
+# FlaskUsers
+
+Just an Register/Login example in Flask with bcrypt for password hashing
 
 ## Requirements
 * Python 3.3+
